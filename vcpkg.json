@@ -1,0 +1,12 @@
+{
+  "name": "snoozlegb",
+  "version": "0.1.0",
+  "dependencies": [
+    "glfw3",
+    "spdlog",
+    {
+      "name": "imgui",
+      "features": [ "docking-experimental", "freetype", "glfw-binding", "opengl3-binding" ]
+    }
+  ]
+}
